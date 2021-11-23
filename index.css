@@ -1,0 +1,36 @@
+body{
+    /*background-image: url(landscape.jpg);*/
+    background-color: hsl(256, 69%, 72%);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 span{
+    color: aliceblue;
+    text-align: center;
+    border: 4px dashed white;
+    padding: 10px;
+}
+#tagline, #me{
+    color: aqua;
+}
+h2{
+    color: wheat;
+}
+#me{
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+#sign{
+    color: black;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-size: 0%;
+    font-size: x-large;
+}
+#form{
+    color: white;
+    background-color: navy;
+    background-origin: content-box;
+    display: inline-block;
+}

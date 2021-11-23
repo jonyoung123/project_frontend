@@ -1,0 +1,98 @@
+body{
+    /*background-image: linear-gradient(navy,white);*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-attachment: fixed;
+    background-color: beige;
+    padding-left: 3%; padding-right: 3%;
+
+}
+.john{
+    background-image: linear-gradient(black,rgb(14, 14, 26));
+}
+#owl{
+    text-align: left;
+    color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: xx-large;
+    
+}
+.john h2{
+    display: inline;
+    text-indent: 3px;
+}
+#yoo{
+    color: bisque;
+    text-align: right;
+}
+.john p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: left;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(253, 252, 250);
+}
+a:link{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(158, 201, 241);
+    text-decoration: none;
+    word-spacing: 15px;
+}
+a:visited{
+      color: white;
+}
+a:hover{
+      color: white;
+      text-decoration: none;
+      background-color: navy;
+}
+a:active{
+      color: aqua;
+      background-color: navy;
+}
+.me h1{
+    
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    color: aquamarine;
+    font-size: x-large;
+}
+.me #hi{
+    text-align: center;
+    font-style: normal;
+    color: black;
+    font-weight: bold;
+}
+.webinar p, img{
+    display: inline-block; 
+}
+#a{
+    font-size: 15px; padding-top: 0px; padding-right: 0px; float: right;
+}
+#b{
+    height: 150px; width: 40%; align-self: flex-start;
+}
+.copy{
+    text-align-last: center;
+    text-decoration: none;
+}
+.johny img, p{
+    display: inline-block;
+}
+.johny img{
+}
+.johny p{
+    margin-right: 10px;
+    font-size: 120%;
+    margin-left: 0;
+}
+#fieldset{
+    margin-left: 20%;
+    margin-right: 20%;
+}
